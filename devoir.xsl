@@ -82,8 +82,13 @@
     <xsl:variable name="footer">
         <footer class="container-footer">
             <div class="footer-left">
-                <p>Projet réalisé par <xsl:value-of select="//publicationStmt/authority"/> dans le
-                    cadre du cours de XSLT du Master TNAH de l'École nationale des chartes. </p>
+                <p>Ce projet a été réalisé par <xsl:value-of select="//publicationStmt/authority"/>
+                    dans le cadre du cours de XSLT du Master TNAH de l'École nationale des
+                    chartes.</p>
+                <p>Lien vers la page Github du projet : <a
+                        href="https://github.com/julietteterrien/Evaluation-XSLT-ENC.git"
+                        style="text-decoration: none; color: #BF4163; font-weight: bold;"
+                        >Evaluation-XSLT-ENC</a></p>
                 <p>
                     <i>
                         <xsl:value-of select="//publicationStmt//licence"/>
@@ -107,18 +112,17 @@
                 margin: 1em;
             }
             footer img {
-                margin: 2em;
+                margin: 3em;
             }
-            .container-footer{
+            .container-footer {
                 display: flex;
             }
             .footer-left {
-                flex: 2;
+                flex: 3;
             }
             .footer-right {
                 flex: 1;
-            }
-        </style>
+            }</style>
     </xsl:variable>
 
     <!-- Appel des templates -->
@@ -141,11 +145,10 @@
                             select="//titleStmt/author"/></h1>
 
                     <div>
-                        <p>Ce site propose une édition numérique de scènes tirées des <cite>Caprices
-                                de Marianne</cite>, issu de l'édition <cite><xsl:value-of
-                                    select="//biblStruct//title"/></cite>, publié par <xsl:value-of
-                                select="//biblStruct//imprint/publisher"/> en <xsl:value-of
-                                select="//biblStruct//imprint/date"/>.</p>
+                        <p>Découvrez une édition numérique de scènes sélectionnées des Caprices de
+                            Marianne, basée sur l’édition <xsl:value-of select="//biblStruct//title"
+                            />, publiée par <xsl:value-of select="//biblStruct//imprint/publisher"/>
+                            en <xsl:value-of select="//biblStruct//imprint/date"/>.</p>
                         <p>Ce projet vise à mettre en valeur l'œuvre dramaturgique d'Alfred de
                             Musset, poète, dramaturge et romancier français. Le XIXe siècle voit
                             l'émergence de la forme du drame romantique, qui a la particularité de
@@ -221,7 +224,8 @@
                                 <tr>
                                     <th>Numérisation :</th>
                                     <td>
-                                        <a style="text-decoration: none; color: #BF4163;">
+                                        <a
+                                            style="text-decoration: none; color: #BF4163; font-weight: bold;">
                                             <xsl:attribute name="href">
                                                 <xsl:value-of select="//bibl/ref/@target"/>
                                             </xsl:attribute>
@@ -232,7 +236,8 @@
                                 <tr>
                                     <th>Conditions d'utilisation :</th>
                                     <td>
-                                        <a style="text-decoration: none; color: #BF4163;">
+                                        <a
+                                            style="text-decoration: none; color: #BF4163; font-weight: bold;">
                                             <xsl:attribute name="href">
                                                 <xsl:value-of
                                                   select="//bibl/availability/licence/@target"/>
@@ -259,9 +264,9 @@
                                 }
                                 td {
                                     vertical-align: bottom;
-                                }
-                            </style>
+                                }</style>
                         </div>
+                        <!-- Intégration de la vionneuse -->
                         <div class="column column-right" id="visioneuse">
                             <div id="_viewer" style="width: 100%; height: 800px;"/>
                             <script type="text/javascript">
@@ -284,8 +289,8 @@
 
     <!-- Pages correspondant aux actes -->
     <xsl:template name="actes">
-        <!-- Boucle pour sélectionner les div contenant les textes de la pièce -->
-        <xsl:for-each select="//body/div">
+        <!-- Boucle pour sélectionner les div correspondant aux actes de la pièce -->
+        <xsl:for-each select="//body/div[@type = 'act']">
             <xsl:result-document href="{concat('out/', 'acte', ./@n, '.html')}">
                 <html>
                     <xsl:copy-of select="$head"/>
@@ -294,14 +299,15 @@
                         <h1 style="text-align: center; font-family: Lora;">
                             <xsl:value-of select="./head"/>
                         </h1>
-                        <div style="margin: 2em 0 2em 0;">
-                            <xsl:for-each select="./div">
+                        <div>
+                            <!-- Deuxième boucle pour sélectionner les scènes à l'intérieur des actes de la pièce -->
+                            <xsl:for-each select="./div[@type = 'scene']">
                                 <h3 style="text-align: center; margin-top: 6%; font-family: Lora;">
                                     <xsl:value-of select="./head"/>
                                 </h3>
-                                <!-- Deuxième boucle pour sélectionner à la fois les balises <sp> et <stage> présentent dans <div> pour restituer tous les éléments du texte dans le bon ordre -->
+                                <!-- Troisième boucle pour sélectionner à la fois les balises <sp> et <stage> présentent dans <div> et restituer tous les éléments du texte dans le bon ordre -->
                                 <xsl:for-each select="./sp | ./stage">
-                                    <!-- Condition pour appliquer un style particulier pour les didascalies (<stage>) -->
+                                    <!-- Condition pour appliquer un style particulier selon s'il s'agit d'une réplique <sp> ou d'une didascalie <stage> -->
                                     <xsl:choose>
                                         <xsl:when test="self::stage">
                                             <p
