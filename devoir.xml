@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les Caprices de Marianne</title>
+            <author>Alfred de Musset</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Juliette Terrien</authority>
+            <date when="2024-12-29">29 december 2024</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+                  Creative Commons Attribution-ShareAlike 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>Alfred de Musset</author>
+                  <title>La nuit vénitienne ; Fantasio ; Les caprices de Marianne / Alfred de Musset
+                     ; illustrations de U. Brunelleschi</title>
+                  <imprint>
+                     <publisher>H. Piazza</publisher>
+                     <pubPlace>Paris</pubPlace>
+                     <date when="1913">1913</date>
+                  </imprint>
+               </monogr>
+               <relatedItem>
+                  <bibl>
+                     <date when="2019-02-10">10/02/2019</date>
+                     <publisher>Bibliothèque nationale de France</publisher>
+                     <idno>Bibliothèque nationale de France, département Réserve des livres rares,
+                        RES M-YF-33</idno>
+                     <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k15219114">Accès au document
+                        numérisé sur Gallica></ref>
+                     <availability>
+                        <licence
+                           target="https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica"
+                           >public domain</licence>
+                     </availability>
+                  </bibl>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f72" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f73" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f74" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f75" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f76" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f77" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f78" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f79" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f80" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f81" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f82" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f83" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f84" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f85" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f86" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f87" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f88" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f89" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f90" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f91" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f92" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f93" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f94" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f95" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f96" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f97" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f98" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f99" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f100" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f101" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f102" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f103" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f104" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f105" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f106" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f107" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f108" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f109" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f110" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f111" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f112" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f113" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f114" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f115" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f116" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f117" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f118" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f119" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f120" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f121" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f122" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f123" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f124" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f125" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f126" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f127" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f128" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f129" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f130" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f131" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f132" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f133" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f134" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f135" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f134" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f135" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f136" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f137" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f138" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f139" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f140" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f141" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f142" resp="gallica"/>
+   </facsimile>
+   <facsimile>
+      <graphic url="ark:/12148/bpt6k15219114/f143" resp="gallica"/>
+   </facsimile>
+   <text xml:lang="fr">
+      <front>
+         <head>Personnages</head>
+         <castList>
+            <castItem type="role">
+               <role xml:id="Claudio">Claudio</role>
+               <roleDesc>podestat</roleDesc>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Octave">Octave</role>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Célio">Célio</role>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Tibia">Tibia</role>
+               <roleDesc>valet de Claudio</roleDesc>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Pippo">Pippo</role>
+               <roleDesc>valet de Célio</roleDesc>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Malvolio">Malvolio</role>
+               <roleDesc>intendant d'Hermia</roleDesc>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Garçon">Un garçon d'auberge</role>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Dom_01">Domestique de Marianne</role>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Dom_02">Domestiques d'Hermia</role>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Spadassins">Deux Spadassins</role>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Marianne">Marianne</role>
+               <roleDesc>femme de Claudio</roleDesc>
+            </castItem>
+            <castItem type="role">
+               <role xml:id="Hermia">Hermia</role>
+               <roleDesc>mère de Célio</roleDesc>
+            </castItem>
+         </castList>
+      </front>
+      <body>
+         <div type="act" n="1">
+            <head>ACTE PREMIER</head>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE</head>
+               <stage type="setting">Une place devant la maison de Claudio.</stage>
+               <stage>Célio, Pippo.</stage>
+               <sp who="#Célio">
+                  <speaker rend="small-caps">Célio.</speaker>
+                  <p>– Eh bien ! Pippo, tu viens de voir Marianne ?</p>
+               </sp>
+               <sp who="#Pippo">
+                  <speaker rend="small-caps">Pippo.</speaker>
+                  <p>– Oui, seigneur.</p>
+               </sp>
+               <sp who="#Célio">
+                  <speaker rend="small-caps">Célio.</speaker>
+                  <p>– Que t'a-t-elle dit ?</p>
+               </sp>
+               <sp who="#Pippo">
+                  <speaker rend="small-caps">Pippo.</speaker>
+                  <p>– Plus dévote et plus orgeuilleuse que jamais. Elle instruira son mari,
+                     dit-elle, si on la poursuit plus longtemps.</p>
+               </sp>
+               <sp who="#Célio">
+                  <speaker rend="small-caps.">Célio.</speaker>
+                  <p>– Ah ! malheureux que je suis ! je n'ai plus qu'à mourir ! Ah ! la plus cruelle
+                     de toutes les femmes !... Et que me conseilles-tu, Pippo ? Quelle ressource
+                     puis-je encore trouver ?</p>
+               </sp>
+               <sp who="#Pippo">
+                  <speaker rend="small-caps">Pippo.</speaker>
+                  <p>– Je vous conseille d'abord de ne pas rester là, car voici son mari qui vient
+                     de ce côté.</p>
+               </sp>
+               <stage type="business">(Ils se retirent dans le fond.)</stage>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE II</head>
+               <stage>Claudio, Tibia</stage>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Es-tu mon fidèle serviteur, mon valet de chambre dévoué ? Apprends que j'ai à
+                     me venger d'un outrage.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Vous, monsieur ?</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Moi-même, puisque ces impudentes guitares ne cessent de murmurer sous les
+                     fenêtre de ma femme. Mais patience ! tout n'est pas fini.</p>
+               </sp>
+               <stage>(Il apperçoit Célio et Pippo.)</stage>
+               <sp who="#Claudio">
+                  <p>Écoute un peu de ce côté-ci ; voilà du monde qui pourrait nous entendre. Tu
+                     m'iras chercher ce soir le spadassin que je t'ai dit.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Pourquoi faire ?</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Je crois que Marianne a des amants.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Vous croyez, monsieur ?</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Oui, il y a autour de ma maison une odeur d'amants. Personne ne passe
+                     naturellement devant ma porte ; il y pleut des guitares et des messages
+                     secrets.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Est-ce que vous pouvez empêcher qu'on ne donne des sérénades à votre femme
+                     ?</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Non, mais je puis poster un homme derrière la grille, et me débarrasser du
+                     premier qui entrera.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Fi ! Votre femme n'a pas d'amants... C'est comme si vous disiez que j'ai des
+                     maîtresses.</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Pourquoi n'en aurais-tu pas, Tibia ? Tu es fort laid, mais tu as beaucoup
+                     d'esprit.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– J'en conviens, j'en conviens.</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Regarde, Tibia, tu en conviens toi-même ; il n'en faut plus douter et mon
+                     déshonneur est public.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Pourquoi public ?</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Je te dis qu'il est public.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Mais, monsieur, votre femme passe pour un dragon de vertu dans toute la
+                     ville. Elle ne voit personne, elle ne sort de chez elle que pour aller à la
+                     messe.</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Laisse-moi faire ; je ne me sens pas de colère. Après tous les cadeaux
+                     qu'elle a reçus de moi !... Oui, Tibia, je machine en ce moment une
+                     épouventable trame, et me sens près de mourrir de douleur.</p>
+               </sp>
+               <sp who="#Tibia">
+                  <speaker rend="small-caps">Tibia.</speaker>
+                  <p>– Oh, que non !</p>
+               </sp>
+               <sp who="#Claudio">
+                  <speaker rend="small-caps">Claudio.</speaker>
+                  <p>– Quand je te dis quelque chose, tu me ferais plaisir de le croire.</p>
+               </sp>
+               <stage type="exit">(Ils sortent.)</stage>
+            </div>
+         </div>
+         <div type="act" n="2">
+            <head>DEUXIEME ACTE</head>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE</head>
+               <stage>Pippo, Octave.</stage>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– Il y renonce, dites-vous ?</p>
+               </sp>
+               <sp who="#Pippo">
+                  <speaker rend="small-caps">Pippo.</speaker>
+                  <p>– Hélas ! pauvre jeune homme ! il aime plus que jamais ! je croirai presque
+                     qu'il se défie de vous, de moi, de tout ce qui l'entoure.</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– Non, par le ciel ! je n'y renoncerai pas. Je me sens moi-même une autre
+                     Marianne, et il y a du plaisir à être entêté. – Ou Célio réussira, ou j'y
+                     perdrai ma langue.</p>
+               </sp>
+               <sp who="#Pippo">
+                  <speaker rend="small-caps">Pippo.</speaker>
+                  <p>– Agirez-vous contre sa volonté ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– Oui, pour agir d'après la mienne, qui est sa soeur ainée, et pour envoyer aux
+                     enfers messer Claudio, le podestat, que je déteste, méprise et abhorre depuis
+                     les pieds jusqu'à la tête.</p>
+               </sp>
+               <sp who="#Pippo">
+                  <speaker rend="small-caps">Pippo.</speaker>
+                  <p>– Faites-lui donc vous-même votre réponse, car le voici ; et, quant moi, je
+                     cesse de m'en mêler.</p>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>SCÈNE V</head>
+               <stage>Octave, puis Un Garçon d'Auberge</stage>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– Tra, tra, poum! poum! tra déra la la! – Quelle drôle de petite femme ?</p>
+               </sp>
+               <stage>(Appelant à l'auberge.)</stage>
+               <sp who="#Octave">
+                  <p>Hai ! holà !</p>
+               </sp>
+               <stage>(A un garçon qui sort de l'auberge.)</stage>
+               <sp who="#Octave">
+                  <p>Apportez-moi ici, sous cette tonnelle, une bouteille de quelque chose.</p>
+               </sp>
+               <sp who="#Garçon">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– Ce qui vous plaira, Excellence. Voulez-vous du lacryma-christi ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– Soit, soit.</p>
+               </sp>
+               <stage>(Il écrit quelques mots au crayon.)</stage>
+               <sp who="#Octave">
+                  <p>– Allez-vous-en un peu chercher dans les rues sombres et un pourpoint plus
+                     sombre encore. Vous lui direz qu'un de ses amis est là qui boit tout seul
+                     lacryma-christi. Après quoi vous irez à la grandep place, et vous remettrez
+                     ceci de ma part à une certaine Rosalinde qui est rousse, et qui est toujours à
+                     sa fenêtre.</p>
+               </sp>
+               <stage>(Il lui donne un feuillet de ses tablettes.)</stage>
+            </div>
+            <div type="scene" n="20">
+               <head>SCÈNE XX</head>
+               <stage rend="small-caps italic" type="mixed">Marianne, Octave, l’épée à la main,
+                  regardant de tous côtés.</stage>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne</speaker>
+                  <p>– Octave, est-ce vous ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>– C’est moi, Marianne. – Célio n’est plus !</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Célio, dites-vous ? Comment se peut-il ?…</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Il n’est plus !</p>
+               </sp>
+               <sp who="Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— O ciel !</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Il n’est plus ! N’allez pas par là.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Où voulez-vous que j’aille ? Je suis perdue ! Il faut partir, Octave, il faut
+                     fuir ! – Claudio sûrement n’est pas dans la maison ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Non ; ils ont pris leurs précautions, et m’ont laissé prudemment seul.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Je le connais, je suis perdue, et vous peut-être aussi... Partons ! ils vont
+                     revenir, et tout à l’heure.</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Partez si vous voulez ; je reste. S’ils doivent revenir ils me trouveront,
+                     et, quoi qu’il advienne, je les attendrai. Je veux veiller près de lui dans son
+                     dernier sommeil.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Mais moi, m’abandonnerez-vous ? Savez-vous à quel danger vous vous exposez,
+                     et jusqu’où peut aller leur vengeance ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Regardez là-bas, derrière ces arbres, cette petite place sombre, au coin de
+                     la muraille ; là est couché mon seul ami ; quant au reste, je ne m’en soucie
+                     guère.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Pas même de votre vie, — ni de la mienne?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Pas même de cela. Regardez là-bas!... Moi seul au monde je l’ai connu. Posez
+                     sur sa tombe une urne d’albâtre couverte d’un long voile de deuil, ce sera sa
+                     parfaite image. C’est ainsi qu’une douce mélancolie voilait les perfections de
+                     cette âme tendre et délicate... Elle eût été heureuse la femme qui l’eût
+                     aimé.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— L’aurait-il défendue si elle avait couru un danger ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Oui, sans nul doute, il l’aurait fait ! — Lui seul était capable d’un
+                     dévouement sans bornes ; lui seul eût consacré sa vie entière à la femme qu’il
+                     aimait, aussi facilement qu’il a bravé la mort pour elle.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Et vous, Octave, ne le feriez-vous pas ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Moi ? — moi, je ne suis qu’un débauché sans cœur; je n’estime point les
+                     femmes. L’amour que j’inspire est comme celui que je ressens, l’ivresse
+                     passagère d’un songe. Ma gaieté n’est qu’un masque ; mon cœur est plus vieux
+                     qu’elle ! Ah ! je ne suis qu’un lâche ! sa mort n’est point vengée !</p>
+               </sp>
+               <stage rend="italic" type="business">(Il jette à terre son épée.)</stage>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— Comment aurait-elle pu l’être ?... Claudio est trop vieux pour accepter un
+                     duel, et trop puissant dans cette ville pour rien craindre de vous.</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Célio m’aurait vengé, si j’étais mort pour lui comme il est mort pour moi.
+                     Son tombeau m’appartient ; c’est moi qu’ils ont étendu dans cette sombre allée
+                     ; c’est pour moi qu’ils avaient aiguisé leurs épées ; c’est pour moi qu’ils ont
+                     tué !... Adieu la gaieté de ma jeunesse, l’insouciante folie, la vie libre et
+                     joyeuse au pied du Vésuve ! Adieu les bruyants repas, les causeries du soir,
+                     les sérénades sous les balcons dorés ! Adieu Naples et ses femmes, les
+                     mascarades à la lueur des torches, les longs soupers à l’ombre des forêts !
+                     Adieu l’amour et l’amitié ! — Ma place est vide sur la terre.</p>
+               </sp>
+               <sp who="#Marianne">
+                  <speaker rend="small-caps">Marianne.</speaker>
+                  <p>— En êtes-vous bien sûr, Octave ? Pourquoi dites-vous : adieu l’amour ?</p>
+               </sp>
+               <sp who="#Octave">
+                  <speaker rend="small-caps">Octave.</speaker>
+                  <p>— Je ne vous aime pas, Marianne ; c’était Célio qui vous aimait.</p>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
